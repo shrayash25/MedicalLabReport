@@ -1,4 +1,5 @@
 #Lab Report Digitization App
+
 #Overview
 This application is designed to digitize lab reports by extracting patient details and test results from uploaded PDF, JPG, PNG, or JPEG files. It uses OCR (Optical Character Recognition) with EasyOCR, natural language processing with spaCy, and rule-based extraction to process scanned or digital documents. The app provides a Streamlit-based UI and a FastAPI endpoint for programmatic access.
 Features
